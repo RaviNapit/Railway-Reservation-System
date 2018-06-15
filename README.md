@@ -7,7 +7,7 @@ It is a Simple Railway Reservation System that allows User to Search Trains,Book
 It also has Admin side which allows extra features like Add Routes,Stations,Trains.
 
 Login Credentials
-Admin Side :    Uid-tushar       Pass-pass1234
+Admin Side :   \n Uid-tushar       Pass-pass1234 \n
 
 Normal User:    Uid:pritam       Pass-pritam123
  
